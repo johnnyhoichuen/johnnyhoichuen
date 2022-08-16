@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![](https://img.shields.io/badge/Medium%20Blog-johnny0116-blue)](https://medium.com/@johnny0116)
+
+
+[![github-active](./profile-3d-contrib/profile-night-view.svg)](https://github.com/johnnyhoichuen)
+
 ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyhoichuen&count_private=true)
