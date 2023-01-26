@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Degens. I premine projects before launching.
+Premining projects before launching.
 
 [![](https://img.shields.io/badge/Medium%20Blog-johnny0116-blue)](https://medium.com/@johnny0116)
 
